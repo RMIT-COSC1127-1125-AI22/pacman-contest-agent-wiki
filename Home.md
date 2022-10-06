@@ -1,4 +1,4 @@
-# RMIT COSC1125/1127 AI'21 Pacman Contest Project
+# RMIT COSC1125/1127 AI'22 Pacman Contest Project
 
 This is a **TEMPLATE** for your Wiki report on your project. It provides a base expectation, but you are free to modify it and extend it in sensible and meaningful ways to suit your needs.
 
@@ -21,7 +21,19 @@ Remember you can explain not just what worked and made it to the final submissio
 
 You can structure your wiki pages in many different sections and styles. The above is just one reasonable example.
 
-# Youtube presentation
+# Youtube individual presentations
+
+Here include each student presentation:
+
+### Student 1's Full Name - RMIT Student number - GitHub Username
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bnMl0d-RcPQ/0.jpg)](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
+
+### Student 2's Full Name - RMIT Student number - GitHub Username
+
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bnMl0d-RcPQ/0.jpg)](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
+
+### Student 3's Full Name - RMIT Student number - GitHub Username
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/bnMl0d-RcPQ/0.jpg)](https://www.youtube.com/watch?v=bnMl0d-RcPQ)
 
@@ -33,7 +45,6 @@ List here the full name, email, and student number for each member of the team:
 * Student 1's Full Name - Student email - RMIT Student number
 * Student 2's Full Name - Student email - RMIT Student number
 * Student 3's Full Name - Student email - RMIT Student number
-* Student 4's Full Name - Student email - RMIT Student number
 
 
 ## Useful links - Wiki features
@@ -51,13 +62,13 @@ The wiki itself is actually a git repository, which means you can clone it, edit
 Go ahead and try:
 
 ```
-$ git clone https://github.com/RMIT-COSC1127-1125-AI/YOUR-REPO-NAME.wiki.git
+$ git clone https://github.com/RMIT-COSC1127-1125-AI22/YOUR-REPO-NAME.wiki.git
 ```
 
 or if you have the ssh registered in GitHub (to avoid entering the password every time), simply:
 
 ```
-$ git clone git@github.com:RMIT-COSC1127-1125-AI/YOUR-REPO-NAME.wiki.git
+$ git clone git@github.com:RMIT-COSC1127-1125-AI22/YOUR-REPO-NAME.wiki.git
 ```
 
 
